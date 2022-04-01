@@ -5,10 +5,6 @@
 |[反復法](https://github.com/kaneda0511/Python_for_Numerical_calculation/blob/main/Pythonによる数値計算/2.非線形方程式の根/反復法.ipynb)|
 |[ニュートン法](https://github.com/kaneda0511/Python_for_Numerical_calculation/blob/main/Pythonによる数値計算/2.非線形方程式の根/ニュートン法.ipynb)|
 
-
-
-### 非線形方程式の根
-反復法、二分法、ニュートン法１、ニュートン法２、多変数ニュートン法、ベアストウ法
 ### 連立1次方程式の解法
 反復法(ヤコビ法、ガウス・ザイデル法、SOR法）、ガウスの消去法、LU分解、トーマス法、コレスキー法、変形コレスキー法
 ### 固有値
