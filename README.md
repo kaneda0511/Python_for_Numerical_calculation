@@ -1,7 +1,7 @@
 # 数値計算
 |非線形方程式の根|コード名|内容|
 |:--:|:--:|:--:|
-||反復法.ipynb|[反復法]
+|反復法.ipynb|[反復法]
 (https://github.com/kaneda0511/Python_for_Numerical_calculation/blob/main/Pythonによる数値計算/2.非線形方程式の根/２分法とはさみうち法.ipynb)|
 ||二分法とはさみうち法.ipynb|[二分法]
 ()|
